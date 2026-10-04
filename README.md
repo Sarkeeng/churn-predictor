@@ -1,5 +1,5 @@
 # Customer Churn Predictor
-
+**Live demo:** https://churn-predictor-sarkeengs.streamlit.app
 Predicts which telecom customers are likely to leave, with a Streamlit app for live predictions.
 
 ## Results
